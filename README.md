@@ -8,6 +8,7 @@ Après **sept ans d'expérience en restauration rapide**, dont **deux ans en man
 - 🌐 **Front-end** : React, Tailwind CSS  
 - 🔙 **Back-end** : Node.js, Express, PostgreSQL  
 - 🗄️ **Base de données** : PostgreSQL
+
 et bien d'autres que je compte découvrir... 😊 
 
 ## 📌 Projets récents  
