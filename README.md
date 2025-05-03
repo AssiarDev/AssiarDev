@@ -6,7 +6,7 @@ Après **sept ans d'expérience en restauration rapide**, dont **deux ans en man
 
 ## 🔧 Technologies & outils  
 - 🌐 **Front-end** : React, Tailwind CSS  
-- 🔙 **Back-end** : Node.js, Express, PostgreSQL  
+- 🔙 **Back-end** : Node.js, Express  
 - 🗄️ **Base de données** : PostgreSQL
 
 
